@@ -1,0 +1,41 @@
+.footer-pages{
+  display: flex;
+  width: 100%;
+  height: 300px;
+  background: var(--Mint-Green, #8DD3BB);
+  justify-content: space-evenly;
+  align-items:center; 
+  padding-top: 100px;
+}
+.icon{
+  width: 100px;
+  height: 50px;
+  margin-top: 100px;
+  margin-left: -190px;
+  font-size: 20px;
+}
+.list-content{
+  list-style: none;
+  margin-top:10px;
+  text-align:left;
+  color:#20332d;
+
+}
+.dest-content h1{
+  font-size: 20px;
+  align-items: center;
+  font-family: 'TradeGothic LT Extended',sans-serif;
+  font-weight: 600;
+}
+.about-content h1{
+  font-size: 20px;
+  align-items: center;
+  font-family: 'TradeGothic LT Extended',sans-serif;
+  font-weight: 600;
+  margin-top: -65px;
+}
+@media (max-width: 991px) {
+  .dest-content h1{
+    white-space: initial;
+  }
+}

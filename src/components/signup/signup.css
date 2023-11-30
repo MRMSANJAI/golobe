@@ -1,0 +1,47 @@
+.content-container{
+    display: flex;
+}
+.signup-content{
+    padding-left:50px;
+    margin-top: 50px;
+}
+.signup-logo{
+    padding-left:30px;
+    margin-left: 75px;
+    padding-bottom: 10px;
+}
+.signuphead-con{
+    font-family: 'TradeGothic LT Extended',sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    margin-left: 100px;
+}
+.signup-button{
+    background: #8dd3bb;
+    height: 50px;
+    width:550px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 100px;
+}
+.signupform-con{
+    margin-left: 100px;
+}
+.alacc{
+    text-align: center;
+    font-size: 19px;
+}
+.firstname{
+    position: absolute;
+    background: white;
+    margin-left: 15px;
+
+}
+.first-cont{
+    margin-top: 25px;
+    width:200px;
+    height: 50px; 
+}

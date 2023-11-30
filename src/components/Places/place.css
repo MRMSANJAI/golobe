@@ -1,0 +1,62 @@
+.ultag{
+    display: flex;
+    flex-direction: row;
+    width: 1440px;
+    list-style: none;
+    gap: 40px;
+    padding-right:30px;
+    justify-content:center;
+    align-items: center;
+    padding-bottom: 30px;
+
+}
+
+.imageplace{
+    display: flex;
+    flex-direction: row;
+    width: 320px;
+    height: 420px;
+    border: 1px;
+    border-radius:8px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+.hclass{
+    display: flex;
+    width: 100px;
+    color: white;
+    padding-top: 20px;
+    margin-top:-170px;
+    margin-left:20px ;
+    font-size: 40px;
+    text-align: right;
+    padding-right:10px;
+    font: 600 24px/29px Montserrat, -apple-system, Roboto, Helvetica,sans-serif;
+}
+.about{
+    color: white;
+    margin-right: -20px;
+    margin-left: 20px;
+    font-weight: 400px;
+}
+.placebutton{
+    background-color:rgb(33, 189, 124);
+    width: 248px;
+    height: 48px;
+    margin-top: -20px;
+    margin-bottom: -20px;
+    font-size: 16px;
+    margin-left:30px;
+    cursor: pointer;
+    border: none;
+    font-weight: 400;
+    font-family:sans-serif;
+}
+.price{
+    color: white;
+    margin-left: 230px;
+    margin-top: -60px;
+    padding-bottom: 10px;
+    font-size: 25px;
+    font-weight: 600;
+}

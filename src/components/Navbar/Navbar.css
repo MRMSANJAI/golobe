@@ -1,0 +1,42 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border: 1px solid white;
+    margin-top:10px;
+}
+.find-container {
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    gap: 10px;
+}
+.find-container a{
+    display: flex;
+    align-items: center;
+    color:#112211;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.login-signup{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-right: 30px;
+}
+.login-signup a{
+    text-decoration: none;
+    background-color: white;
+    color:#112211;
+    font-size: 20px;
+}
+.signup-btn{
+    background-color:#112211;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
